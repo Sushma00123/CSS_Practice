@@ -1,0 +1,18 @@
+h1{
+width: 200px;
+height: 30px;
+background-color: chocolate;
+border: 5px solid red;
+text-align: center;
+margin: auto;
+}
+/* span{
+
+    margin: 20px auto;
+} */
+/* section:first-of-type h1:nth-of-type(1){
+    transform:rotate(20deg);
+} */
+section:first-of-type h1:nth-of-type(1){
+    transform:tra(20deg);
+}

@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+button{
+    color: chocolate;
+    border: 2px solid coral;
+    background-color: black;
+    padding: 10px;
+    transition: all 0.25em;
+}
+button:hover{
+    border-color: rgb(209, 224, 44);
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(172, 211, 16);
+    transform: translateY(-0.25em);
+}
